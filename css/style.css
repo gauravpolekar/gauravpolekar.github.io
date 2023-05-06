@@ -39,7 +39,6 @@ body{
     width: 60px;
 }
 .text-para{
-    font-family: sans-serif;
     font-weight: 500;
     padding:0% 5% 0% 5%;
 
@@ -48,7 +47,6 @@ body{
     font-size: 20px;
     line-height: 32px;
     word-break: break-word;
-    -webkit-text-size-adjust: 100%;
 }
 .social-connect {
     filter: drop-shadow(0 0 5px #7C7C7C);
@@ -80,10 +78,5 @@ body{
     .social-media-icon{
         margin-left: 5%;
         width: 40px;
-    }
-    .text-para{
-        font-size: 12px;
-        font-weight: 500;
-        padding:0% 5% 0% 5%;
     }
 }
